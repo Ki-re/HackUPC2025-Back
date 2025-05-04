@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <img src="logo.png" alt="logo" width="200" height="auto" />
   <h1>SkyScannerHACKUPC-BACK</h1>
