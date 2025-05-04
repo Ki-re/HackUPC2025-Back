@@ -70,5 +70,3 @@ python3 main.py
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ---
-
-Let me know if you’d like to add any additional sections or details!
