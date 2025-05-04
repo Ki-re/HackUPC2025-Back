@@ -7,9 +7,9 @@
   </p>
   
 <h4>
-    <a href="https://github.com/ka1sen22/SkyScannerHACKUPC-BACK/issues/">Report Bug</a>
+    <a href="https://github.com/ka1sen22/SkyScannerHACKUPC-BACK/issues/">Report a Bug</a>
   <span> · </span>
-    <a href="https://github.com/ka1sen22/SkyScannerHACKUPC-BACK/issues/">Request Feature</a>
+    <a href="https://github.com/ka1sen22/SkyScannerHACKUPC-BACK/issues/">Request a Feature</a>
   <span> · </span>
     <a href="https://github.com/ka1sen22/SkyScannerHACKUPC-BACK/pulls">Contribute</a>
   </h4>
